@@ -37,13 +37,13 @@ Para embarcar nesta jornada espacial, basta clonar o repositório e, em seguida,
 
 
 <h2>npm run dev<h1></h2>
-Isso iniciará o "Foguetinho Explorer" e permitirá que você comece a explorar o universo intergaláctico que criamos para você.
+Isso iniciará o "Rocket Games" e permitirá que você comece a explorar o universo intergaláctico que criamos para você.
 
 
 Conclusão:
-Estou empolgado em compartilhar o "Foguetinho Explorer" com todos vocês. 
+Estou empolgado em compartilhar o "Rocket Games" com todos vocês. 
 Este projeto representa não apenas meu amor pelo desenvolvimento de jogos, mas também a aspiração de proporcionar momentos de descontração e alegria. 
-Espero que se divirtam explorando o universo infinito deste joguinho tão especial. Aventure-se, crie e divirta-se no "Foguetinho Explorer"!
+Espero que se divirtam explorando o universo infinito deste joguinho tão especial. Aventure-se, crie e divirta-se no "Rocket Games"!
 
 Agradeço a todos pelo apoio e estou aberto a feedbacks para aprimorar ainda mais essa experiência intergaláctica. Vamos explorar juntos! 🚀✨
 
